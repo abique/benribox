@@ -1,0 +1,4 @@
+[package]
+name = "benribox"
+version = "0.0.1"
+authors = [ "Alexandre BIQUE <bique.alexandre@gmail.com>" ]
